@@ -1,5 +1,6 @@
-# Hello! I'm Eggsy! Full Stack 
+# Hola, soy Arturo 👋
 ## About me 
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Soy ingeniero Electronico con un profundo interes en el desarrollador web con interés en Html, Css,javascript,Python . Estoy emocionado por aprender y contribuir a proyectos de código abierto.
+
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+A medida que continúa mi viaje en el desarrollo Web, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
